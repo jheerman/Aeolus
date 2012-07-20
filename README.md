@@ -4,7 +4,7 @@ Currently, this app supports iOS 5.1+
 
 Basic Features
 -----------------------
-    * App to demonstrate placing prescription eyeglass/sunglass orders
+  * App to demonstrate placing prescription eyeglass/sunglass orders
 
 Screenshot
 -----------------------
